@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel/Splash",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "marshall@oxasploits.com",
+                "Name": "oxagast"
+            }
+        ],
+        "Category": "",
+        "Description": "Thinkpad Custom Spashscreen for KDE",
+        "Id": "Thinkpad-E580",
+        "License": "GPLv3",
+        "Name": "Thinkpad-E580",
+        "Website": "https://github.com/oxagast"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
+
